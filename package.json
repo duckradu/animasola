@@ -1,0 +1,9 @@
+{
+  "name": "animasola",
+  "author": "radu.dascalu@pm.me",
+  "version": "0.0.0",
+  "description": "",
+  "engines": {
+    "node": ">=20"
+  }
+}
